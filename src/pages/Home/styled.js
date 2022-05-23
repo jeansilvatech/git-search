@@ -64,8 +64,11 @@ export const Button = styled.button`
 
 export const ErrorMsg = styled.span`
   display: block;
-  font-size: 0.65rem;
-  color: red;
+  font-size: 0.80rem;
+  padding: 0.5rem;
+  border-radius: 1.5rem;
+  background-color: red;
+  color: #fff;
   font-weight: 600;
   margin-top: 1rem;
 `;
