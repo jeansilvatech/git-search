@@ -27,6 +27,7 @@ export const ListItem = styled.li`
   margin: .5rem 0;
   background: #363939;
   color: #fff;
+  border-radius: 2rem;
   padding: .5rem;
 `;
 
