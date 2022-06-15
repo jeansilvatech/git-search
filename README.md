@@ -1,10 +1,10 @@
 # Git Search
 
-## Aplicação que busca repositórios no GitHub por usuário, desenvolvida em React durante o Hiring Coders #3
+## Aplicação que busca repositórios no GitHub por usuário, desenvolvida em React durante o Hiring Coders #3.
 
 
 
-## Teste o projeto aqui
+## Teste o projeto aqui:
 <a href="https://jeansilvatech.github.io/git-search/" target="_blank"><img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/></a>
 <a href="https://jeansilvatech.github.io/git-search/" target="_blank"><img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/></a>
 <a href="https://jeansilvatech.github.io/git-search/" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white"/></a>
