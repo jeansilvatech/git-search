@@ -1,3 +1,9 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
 html, body {
   background-image: linear-gradient(to right, #0a0b0b, #0f1010, #121414, 
     #161718, #191a1b, #1e1f20, 
@@ -8,3 +14,39 @@ html, body {
     height: 100vh;
     margin: 0 auto;
   }
+  .typescript{
+    background-color:#007acc ;
+  }
+  .css{
+    background-color: #563D7C;
+  }
+  .html{
+    background-color: #E34C26;
+  }
+  .ejs{
+    background-color: #A01C4C;
+  }
+  .javascript{
+    background-color: #F0DB4F;
+  }
+  .csharp{
+    background-color: #178600;
+  }
+  .java{
+    background-color: #B07219;
+  }
+  .python{
+    background-color: #356A97;
+  }
+  .vue{
+    background-color: #41B883;
+  }
+  .dart{
+    background-color: #00B4AB;
+  }
+  .c{
+    background-color: #555555;
+  }
+  /* .default{
+    background-color: #000;
+  } */
